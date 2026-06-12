@@ -1,3 +1,3 @@
-Agrinho 
-                                                                                                                                                                              Agro forte e Sustentavel
-O site tem funcionalidade como explicar o equilibrio sobre produçao e meio ambiente
+Projeto do Agrinho.
+Tema do site:Agro forte e Sustentavel.
+O site tem funcionalidade como explicar o equilibrio sobre produçao e meio ambiente.
